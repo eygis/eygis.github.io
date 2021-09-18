@@ -2,4 +2,4 @@
 
 Live page: https://eygis.github.io
 
-Created as a part of the Free Code Camp curriculum.  
+Basic profile page created as a part of the Free Code Camp HTML curriculum.  
